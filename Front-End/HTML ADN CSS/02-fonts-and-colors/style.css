@@ -1,0 +1,20 @@
+body{
+  background-color: #FFF0F8;
+  font-family: 'Anton', sans-serif;
+  font-weight: 250;
+  color: black;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h1,h2,h3{
+  color: green;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+a{
+  color:red;
+
+}
