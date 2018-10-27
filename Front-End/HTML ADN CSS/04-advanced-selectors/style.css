@@ -6,6 +6,10 @@ body{
   font-size: 20px;
   line-height: 30px;
 }
+body{
+  background-image: url(images/background-image.jpg);
+}
+
 
 h1,h2,h3{
   color: green;
