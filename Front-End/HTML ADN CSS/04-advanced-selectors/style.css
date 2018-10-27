@@ -31,7 +31,7 @@ color: green;
   margin: 0 auto;
 }
 .card{
-  background:white;
+  background:grey;
   padding: 30px;
   margin-bottom: 20px;
   border-radius: 4px;
@@ -41,9 +41,24 @@ color: green;
   text-align: center;
 }
 
-.inline-cards{
-  color: blue;
-  display: block;
+
+.img-circle{
+  border-radius: 50%;
+}
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+
+}
+.list-inline{
+  padding-left: 0px;
+}
+.btn-red{
+  background-color: red;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
 }
 
 @media (max-width: 960px){
