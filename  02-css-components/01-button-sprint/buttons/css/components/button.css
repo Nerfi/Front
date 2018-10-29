@@ -1,0 +1,14 @@
+.text-center {
+  display: flex;
+  justify-content: center;
+
+}
+.btn-medium{
+  color: red;
+}
+ h1 {
+  color: blue;
+}
+.text-center > a {
+  color: green;
+}
